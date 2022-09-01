@@ -1,0 +1,40 @@
+{
+  "expense-Data": [
+    {
+      "id": "1",
+      "title": "House-rent",
+      "amount": "250",
+      "date": "Thu Sep 01 2022 12:21:06 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "2",
+      "title": "Food",
+      "amount": "59",
+      "date": "Thu Sep 02 2022 12:21:06 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "3",
+      "title": "books",
+      "amount": "100",
+      "date": "Thu Sep 10 2022 12:21:06 GMT+0530 (India Standard Time)"
+    },
+    {
+      "title": "Ticket",
+      "amount": "90",
+      "date": "2022-08-31T00:00:00.000Z",
+      "id": "0.6217841257772543"
+    },
+    {
+      "title": "gym",
+      "amount": "50",
+      "date": "2022-08-29T00:00:00.000Z",
+      "id": "0.1906489396728419"
+    },
+    {
+      "title": "title",
+      "amount": "55",
+      "date": "2022-08-31T00:00:00.000Z",
+      "id": "0.27735730280130855"
+    }
+  ]
+}
